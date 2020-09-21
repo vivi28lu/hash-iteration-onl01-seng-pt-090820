@@ -28,6 +28,4 @@ describe "#age_appropriate_birthday" do
   end
 end
 
-def age_appropriate_birthday(birthday_kids)
-end
   
